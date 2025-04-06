@@ -107,7 +107,7 @@ class ProductService {
       name: "Sac à main Balmain",
       description: "Sac en cuir véritable Balmain, à la fois luxueux et fonctionnel.",
       price: 150,
-      image: "/10 (2).jpeg",
+      image: "/10.jpeg",
       category: "Sacs",
       available: true,
       gender: "femme"
@@ -407,7 +407,7 @@ class ProductService {
       name: "Sacoche Louis Vuitton",
       description: "Sacoche élégante en cuir avec logo LV, parfaite pour les sorties.",
       price: 80,
-      image: "/40 (2).jpeg",
+      image: "/40.jpeg",
       category: "Sacs",
       available: true,
       gender: "homme"
@@ -417,7 +417,7 @@ class ProductService {
       name: "Sacoche bandoulière Louis Vuitton",
       description: "Sacoche élégante en cuir avec logo LV, parfaite pour les sorties.",
       price: 130,
-      image: "/41 (2).jpeg",
+      image: "/41.jpeg",
       category: "Sacs",
       available: true,
       gender: "homme"
@@ -427,7 +427,7 @@ class ProductService {
       name: "Pochette Louis Vuitton",
       description: "Sacoche élégante en cuir avec logo LV, parfaite pour les sorties.",
       price: 90,
-      image: "/42 (2).jpeg",
+      image: "/42.jpeg",
       category: "accesoires",
       available: true,
       gender: "homme"
@@ -437,7 +437,7 @@ class ProductService {
       name: "Pochette Louis Vuitton",
       description: "Sacoche élégante en cuir avec logo LV, parfaite pour les sorties.",
       price: 90,
-      image: "/43 (2).jpeg",
+      image: "/43.jpeg",
       category: "accesoires",
       available: true,
       gender: "homme"
