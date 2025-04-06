@@ -441,7 +441,77 @@ class ProductService {
       category: "accesoires",
       available: true,
       gender: "homme"
-    }
+    },
+    {
+      id: "44",
+      name: "Pochette Louis Vuitton",
+      description: "Sacoche élégante en cuir avec logo LV, parfaite pour les sorties.",
+      price: 90,
+      image: "/44.jpeg",
+      category: "accesoires",
+      available: true,
+      gender: "homme"
+    },
+    {
+      id: "45",
+      name: "Nike Dunk",
+      description: "Sacoche élégante en cuir avec logo LV, parfaite pour les sorties.",
+      price: 90,
+      image: "/45.jpeg",
+      category: "accesoires",
+      available: true,
+      gender: "homme"
+    },
+    {
+      id: "46",
+      name: "Sacoche Christian Dior",
+      description: "Sacoche élégante en cuir avec logo Dior, parfaite pour les sorties.",
+      price: 80,
+      image: "/46.jpeg",
+      category: "Sacs",
+      available: true,
+      gender: "homme"
+    },
+    {
+      id: "47",
+      name: "Sacoche Christian Dior",
+      description: "Sacoche élégante en cuir avec logo Dior, parfaite pour les sorties.",
+      price: 80,
+      image: "/47.jpeg",
+      category: "Sacs",
+      available: true,
+      gender: "homme"
+    },
+    {
+      id: "48",
+      name: "Sacoche Christian Dior",
+      description: "Sacoche élégante en cuir avec logo Dior, parfaite pour les sorties.",
+      price: 80,
+      image: "/48.jpeg",
+      category: "Sacs",
+      available: true,
+      gender: "homme"
+    },
+    {
+      id: "49",
+      name: "Sacoche Christian Dior",
+      description: "Sacoche élégante en cuir avec logo Dior, parfaite pour les sorties.",
+      price: 80,
+      image: "/49.jpeg",
+      category: "Sacs",
+      available: true,
+      gender: "homme"
+    },
+    {
+      id: "50",
+      name: "Sac Louis Vuitton",
+      description: "Sacoche élégante en cuir avec logo LV, parfaite pour les sorties.",
+      price: 80,
+      image: "/50.jpeg",
+      category: "Sacs",
+      available: true,
+      gender: "homme"
+    },
   ];
   
   async getProducts(): Promise<Product[]> {
